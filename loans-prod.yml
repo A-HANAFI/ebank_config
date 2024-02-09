@@ -3,7 +3,7 @@ build:
 
 
 contacts:
-  message: "welcome production team"
+  message: "welcome prod team"
   contactDetails:
     name: "prod"
     email: "a7med.connect@gmail.com"
