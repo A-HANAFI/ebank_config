@@ -1,0 +1,14 @@
+
+
+
+build:
+  version: "1.0"
+
+contacts:
+  message: "Welcome to accounts related prod APIs "
+  contactDetails:
+    name: " - Product Owner"
+    email: "prod@eazybank.com"
+  onCallSupport:
+    - (453) 392-4829
+    - (236) 203-0384

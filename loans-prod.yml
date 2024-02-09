@@ -1,0 +1,12 @@
+build:
+  version: "v01"
+
+
+contacts:
+  message: "welcome prod team"
+  contactDetails:
+    name: "prod"
+    email: "a7med.connect@gmail.com"
+  phones:
+    - 6666666
+    - 7777777

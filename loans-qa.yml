@@ -1,0 +1,11 @@
+build:
+  version: "v02"
+
+contacts:
+  message: "welcome QA team"
+  contactDetails:
+    name: "QA lead"
+    email: "a7med.connect@gmail.com"
+  phones:
+    - 4444444
+    - 5555555
