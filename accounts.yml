@@ -7,7 +7,7 @@ contacts:
   message: "welcome"
   contactDetails:
     name: "ahmed"
-    email: "a7med.connect@gmail.com"
+    email: "{cipher}e9c1a86f31e7244faa06c091fb674b93381297b042727105b7f820a740855f5f376a624c5592256e02116d82672b1ef1"
   onCallSupport:
     - 222222222
     - 333333333
