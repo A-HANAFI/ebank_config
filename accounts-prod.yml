@@ -5,7 +5,7 @@ build:
   version: "1.0"
 
 contacts:
-  message: "Welcome to accounts related production APIs "
+  message: "Welcome to accounts related prod APIs "
   contactDetails:
     name: "Product Owner"
     email: "{cipher}f601f4fd0f9f0f1add222e14a25c92730228ad9f8d7f5616dbd29e98e4574dd5d68ffc566cc9c1dacd1e27acf6d5358a"
