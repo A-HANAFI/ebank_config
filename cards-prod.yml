@@ -2,7 +2,7 @@ build:
   version: "v01"
 
 contacts:
-  message: "welcome prod team"
+  message: "welcome production team"
   contactDetails:
     name: "prod"
     email: "a7med.connect@gmail.com"
