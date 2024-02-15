@@ -2,7 +2,7 @@ build:
   version: "v02"
 
 contacts:
-  message: "welcome QA team"
+  message: "welcome QA team this is cards"
   contactDetails:
     name: "QA lead"
     email: "a7med.connect@gmail.com"
